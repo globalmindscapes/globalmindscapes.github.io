@@ -10,10 +10,10 @@ nav_order: 2
 <br>
 
 <div>
-<table class="table" id="standings" style="border-collapse:collapse; width: 100%;">
-  <tr class="header" style="background-color:rgb(215, 215, 215); border-top: 1pt solid white; border-bottom: 1pt solid black;">
-    <th style="border-top-left-radius: 10px;">Time</th>
-    <th style="border-top-right-radius: 10px;">Activity</th>
+<table class="table" id="schedule-table" style="border-collapse:collapse">
+  <tr style="background-color:rgb(215, 215, 215); border-top: 1pt solid white; border-bottom: 1pt solid black;">
+    <th style="border-top-left-radius: 10px; width: 20%">Time</th>
+    <th style="width: 80% border-top-right-radius: 10px;">Activity</th>
   </tr>
   <tr>
     <td>8:20 am - 8:30 am</td>
@@ -35,7 +35,7 @@ nav_order: 2
     <td>10:15 am - 11:45 am</td>
     <td>Poster Session 1 & Coffee Break & Networking</td>
   </tr>
-  <tr class="header" style="background-color:rgb(240, 240, 240);">
+  <tr style="background-color:rgb(240, 240, 240);">
     <td>11:45 am - 1:00 pm</td>
     <td>Lunch Break</td>
   </tr>
